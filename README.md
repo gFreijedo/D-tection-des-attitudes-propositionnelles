@@ -1,1 +1,1 @@
-# D-tection-des-attitudes-propositionnelles
+# Detection-des-attitudes-propositionnelles
